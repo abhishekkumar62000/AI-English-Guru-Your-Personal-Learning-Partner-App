@@ -4,3 +4,6 @@ libportaudio2
 libportaudiocpp0
 ffmpeg
 git
+gcc
+g++
+build-essential
