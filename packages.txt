@@ -7,3 +7,4 @@ git
 gcc
 g++
 build-essential
+python3-dev
