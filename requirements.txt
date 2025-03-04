@@ -13,3 +13,4 @@ gtts==2.3.2
 spacy==3.5.3
 thinc==8.1.10
 git+https://github.com/PrithivirajDamodaran/Gramformer.git
+
